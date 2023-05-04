@@ -8,6 +8,6 @@ shoot = 5;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 164D1144
-/// @DnDArgument : "expr" "2"
+/// @DnDArgument : "expr" "10"
 /// @DnDArgument : "var" "velocity"
-velocity = 2;
+velocity = 10;

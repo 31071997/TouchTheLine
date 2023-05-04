@@ -14,6 +14,13 @@ if(l237DB0FC_0)
 	/// @DnDArgument : "speed" "random(velocity)"
 	/// @DnDArgument : "type" "2"
 	vspeed = random(velocity);
+
+	/// @DnDAction : YoYo Games.Movement.Set_Gravity_Direction
+	/// @DnDVersion : 1
+	/// @DnDHash : 18C6F598
+	/// @DnDParent : 237DB0FC
+	/// @DnDArgument : "direction" "Obj_player"
+	gravity_direction = Obj_player;
 }
 
 /// @DnDAction : YoYo Games.Instances.Sprite_Rotate

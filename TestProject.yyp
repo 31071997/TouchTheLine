@@ -31,10 +31,12 @@
   "isEcma": false,
   "LibraryEmitters": [],
   "MetaData": {
-    "IDEVersion": "2023.2.1.75",
+    "IDEVersion": "2023.4.0.84",
   },
   "resources": [
     {"id":{"name":"Obj_Enemy","path":"objects/Obj_Enemy/Obj_Enemy.yy",},},
+    {"id":{"name":"Obj_FinishLine","path":"objects/Obj_FinishLine/Obj_FinishLine.yy",},},
+    {"id":{"name":"FinishLine","path":"sprites/FinishLine/FinishLine.yy",},},
     {"id":{"name":"Player","path":"sprites/Player/Player.yy",},},
     {"id":{"name":"Obj_Spark","path":"objects/Obj_Spark/Obj_Spark.yy",},},
     {"id":{"name":"Spark","path":"sprites/Spark/Spark.yy",},},
