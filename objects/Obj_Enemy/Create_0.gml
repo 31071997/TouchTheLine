@@ -11,3 +11,10 @@ shoot = 5;
 /// @DnDArgument : "expr" "10"
 /// @DnDArgument : "var" "velocity"
 velocity = 10;
+
+/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDVersion : 1
+/// @DnDHash : 0A787713
+/// @DnDArgument : "expr" "10"
+/// @DnDArgument : "var" "varFire"
+varFire = 10;

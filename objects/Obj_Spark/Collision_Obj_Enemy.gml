@@ -14,3 +14,8 @@ shoot += -1;
 /// @DnDVersion : 1
 /// @DnDHash : 54907F91
 instance_destroy();
+
+/// @DnDAction : YoYo Games.Rooms.Next_Room
+/// @DnDVersion : 1
+/// @DnDHash : 02D3997B
+room_goto_next();

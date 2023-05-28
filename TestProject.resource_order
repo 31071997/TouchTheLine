@@ -19,8 +19,11 @@
     {"name":"Obj_Enemy","order":1,"path":"objects/Obj_Enemy/Obj_Enemy.yy",},
     {"name":"Obj_FinishLine","order":3,"path":"objects/Obj_FinishLine/Obj_FinishLine.yy",},
     {"name":"FinishLine","order":3,"path":"sprites/FinishLine/FinishLine.yy",},
+    {"name":"Obj_fire","order":4,"path":"objects/Obj_fire/Obj_fire.yy",},
     {"name":"Obj_Spark","order":2,"path":"objects/Obj_Spark/Obj_Spark.yy",},
     {"name":"Spark","order":2,"path":"sprites/Spark/Spark.yy",},
     {"name":"Enemy","order":1,"path":"sprites/Enemy/Enemy.yy",},
+    {"name":"fire","order":4,"path":"sprites/fire/fire.yy",},
+    {"name":"Room2","order":1,"path":"rooms/Room2/Room2.yy",},
   ],
 }
